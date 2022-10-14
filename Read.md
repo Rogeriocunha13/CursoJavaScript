@@ -122,3 +122,7 @@ Organizar Código
 # **Identidade**
 
 ![identidade](Imagens/identidade.png)
+
+# **Operadores Lógicos**
+
+![logicos](Imagens/logicos.png)
