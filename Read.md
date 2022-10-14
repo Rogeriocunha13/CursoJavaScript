@@ -118,3 +118,7 @@ Organizar Código
 # **Incremento**
 
 ![incremento](Imagens/incremento.png)
+
+# **Identidade**
+
+![identidade](Imagens/identidade.png)
