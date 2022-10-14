@@ -114,3 +114,7 @@ Organizar Código
 **Ordem de precedência:**
 
 ![precedencia](Imagens/precedencia.png)
+
+# **Incremento**
+
+![incremento](Imagens/incremento.png)
