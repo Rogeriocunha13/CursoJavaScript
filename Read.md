@@ -152,3 +152,19 @@ Dentro do document tem o objeto **html**.
 Dentro do **html** temos o **head** e o **body**
 
 ![arvoreDom](Imagens/arvoreDom.png)
+
+**MÉTODOS DE SELECÃO**
+
+![selecionar](Imagens/selecionar.png)
+
+**EXEMPLO NO VS CODE**
+
+![exemplo](Imagens/exemplo.png)
+
+![id](Imagens/id.png)
+
+![name](Imagens/name.png)
+
+![classe](Imagens/classe.png)
+
+![seletor](Imagens/seletor.png)
