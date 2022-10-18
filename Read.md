@@ -168,3 +168,8 @@ Dentro do **html** temos o **head** e o **body**
 ![classe](Imagens/classe.png)
 
 ![seletor](Imagens/seletor.png)
+
+**IMPORTANTE:**
+**Toda div é representada por um #**
+
+**TODA CLASSE É REPRESENTADA POR UM PONTO.**
