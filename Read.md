@@ -126,3 +126,29 @@ Organizar Código
 # **Operadores Lógicos**
 
 ![logicos](Imagens/logicos.png)
+
+## AULA 09
+
+**Estudando o DOM**
+
+![dom](Imagens/dom.png)
+
+ÁRVORE DOM DO SITE:
+
+Sempre começa pela Raíz = window.
+
+**Exemplo de objetos dentro do window:**
+
+![dom2](Imagens/dom2.png)
+
+-- location = Que diz qual a localização do seu Site; Qual a URL?; Qual a pagina anterior?
+
+-- document = O documento atual
+
+-- history = Guarda da onde você veio e pra onde você vai.
+
+Dentro do document tem o objeto **html**.
+
+Dentro do **html** temos o **head** e o **body**
+
+![arvoreDom](Imagens/arvoreDom.png)
